@@ -1,2 +1,2 @@
 # NetSuiteAccess
-NetSuite Rest API .NET wrapper
+NetSuite SOAP API .NET wrapper
